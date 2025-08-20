@@ -4,7 +4,7 @@ title: Example dashboard
 toc: false
 ---
 
-# Rocket launches 🚀
+# Rocket launches 🚀 lol
 
 <!-- Load and transform the data -->
 
